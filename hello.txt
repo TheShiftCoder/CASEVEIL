@@ -1,0 +1,8 @@
+Stage 1 mein game ki buniyaad aur case ka detailed record tayyar karna tha—coding nahi.
+- CASEVEIL project aur OBSCURA game ki identity
+- Player ka investigation flow
+- Case 001: The Last Night at Blackwood
+- Paanch suspects, unke motives/alibis/secrets
+- Chhupi hui sachchai, evidence, timeline aur contradictions
+- Screens, visual style, aur technical boundaries
+Abhi 01_PRODUCT_RECORD.md mein requirements darj hain, lekin case ki final sachchai—culprit, motive aur method—abhi tayyar nahi ki gayi.

@@ -1,0 +1,28 @@
+:root {
+  --bg: #0B0E13;
+  --bg-secondary: #10151D;
+  --panel: #141B25;
+  --panel-elevated: #1A2230;
+  --border: #293344;
+  --text-primary: #E8EDF5;
+  --text-secondary: #8995A7;
+  --text-muted: #586477;
+  --accent: #C69A5D;
+  --accent-hover: #D9AD70;
+  --danger: #B85B5B;
+  --success: #799C84;
+  --investigation-blue: #7289A6;
+}
+
+body {
+  margin: 0;
+  background-color: var(--bg);
+  color: var(--text-primary);
+  font-family: 'Inter', sans-serif;
+  height: 100vh;
+  overflow: hidden;
+}
+
+h1, h2, h3 {
+  font-family: 'Cormorant Garamond', serif;
+}
